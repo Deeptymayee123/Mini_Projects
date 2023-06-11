@@ -1,0 +1,31 @@
+
+        button{
+            background:blue;
+            padding-left:50px;
+            padding-right:50px;
+            padding-top:5px;
+            padding-bottom:5px;
+            text-align:center;
+            color:white;
+            border-color: aliceblue;
+        }
+      body {
+            display: flex;
+            min-height: 600px;
+            justify-content: center;
+            align-items: center;
+          font-size:normal;
+            text-align: center;
+      }
+      #DOB{
+        font-size:normal;
+      }
+          #result{
+            font-size:normal;
+            
+          }
+          #message{
+            color:red;
+          }
+         
+       
