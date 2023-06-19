@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    min-height: 600px;
+    justify-content: center;
+    align-items: center;
+  
+    text-align: center;
+  }
+  
+  .flex {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 30px;
+  }
